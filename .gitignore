@@ -1,5 +1,6 @@
 tests/
 venv/
 
+*vscode/
 *benchmarks/
 *pytest_cache/
