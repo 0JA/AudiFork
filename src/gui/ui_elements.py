@@ -1,8 +1,8 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-from audio_device_manager import AudioDeviceManager
-from application_manager import ApplicationManager
-from profile_manager import ProfileManager
+from managers.audio_device_manager import AudioDeviceManager
+from managers.application_manager import ApplicationManager
+from managers.profile_manager import ProfileManager
 import sounddevice as sd
 from pycaw.pycaw import AudioUtilities
 
