@@ -1,11 +1,3 @@
-tests/
+.*
+*test*
 venv/
-.vscode/
-.benchmarks/
-.pytest_cache/
-
-*.pytest_cache
-*.benchmarks
-*venv
-
-#yay
